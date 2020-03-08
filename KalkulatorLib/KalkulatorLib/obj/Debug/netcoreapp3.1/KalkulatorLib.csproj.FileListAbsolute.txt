@@ -1,0 +1,8 @@
+C:\Users\damia\source\repos\KalkulatorLib\KalkulatorLib\bin\Debug\netcoreapp3.1\KalkulatorLib.deps.json
+C:\Users\damia\source\repos\KalkulatorLib\KalkulatorLib\bin\Debug\netcoreapp3.1\KalkulatorLib.dll
+C:\Users\damia\source\repos\KalkulatorLib\KalkulatorLib\bin\Debug\netcoreapp3.1\KalkulatorLib.pdb
+C:\Users\damia\source\repos\KalkulatorLib\KalkulatorLib\obj\Debug\netcoreapp3.1\KalkulatorLib.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\KalkulatorLib\KalkulatorLib\obj\Debug\netcoreapp3.1\KalkulatorLib.AssemblyInfoInputs.cache
+C:\Users\damia\source\repos\KalkulatorLib\KalkulatorLib\obj\Debug\netcoreapp3.1\KalkulatorLib.AssemblyInfo.cs
+C:\Users\damia\source\repos\KalkulatorLib\KalkulatorLib\obj\Debug\netcoreapp3.1\KalkulatorLib.dll
+C:\Users\damia\source\repos\KalkulatorLib\KalkulatorLib\obj\Debug\netcoreapp3.1\KalkulatorLib.pdb
