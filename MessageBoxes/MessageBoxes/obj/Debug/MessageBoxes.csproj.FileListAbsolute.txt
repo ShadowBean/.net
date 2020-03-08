@@ -1,0 +1,9 @@
+C:\Users\damia\source\repos\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.exe.config
+C:\Users\damia\source\repos\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.exe
+C:\Users\damia\source\repos\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.pdb
+C:\Users\damia\source\repos\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Form1.resources
+C:\Users\damia\source\repos\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Properties.Resources.resources
+C:\Users\damia\source\repos\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.exe
+C:\Users\damia\source\repos\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.pdb
