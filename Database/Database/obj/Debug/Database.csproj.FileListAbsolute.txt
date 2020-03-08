@@ -1,0 +1,10 @@
+C:\Users\damia\source\repos\Database\Database\bin\Debug\Database.exe.config
+C:\Users\damia\source\repos\Database\Database\bin\Debug\Database.exe
+C:\Users\damia\source\repos\Database\Database\bin\Debug\Database.pdb
+C:\Users\damia\source\repos\Database\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\damia\source\repos\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\damia\source\repos\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\Database\Database\obj\Debug\Database.exe
+C:\Users\damia\source\repos\Database\Database\obj\Debug\Database.pdb
+C:\Users\damia\source\repos\Database\Database\obj\Debug\Database.Form2.resources
