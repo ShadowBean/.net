@@ -1,0 +1,9 @@
+C:\Users\damia\source\repos\MailSender\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\damia\source\repos\MailSender\MailSender\bin\Debug\MailSender.exe
+C:\Users\damia\source\repos\MailSender\MailSender\bin\Debug\MailSender.pdb
+C:\Users\damia\source\repos\MailSender\MailSender\obj\Debug\MailSender.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\MailSender\MailSender\obj\Debug\MailSender.MailSenderForm.resources
+C:\Users\damia\source\repos\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\damia\source\repos\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\MailSender\MailSender\obj\Debug\MailSender.exe
+C:\Users\damia\source\repos\MailSender\MailSender\obj\Debug\MailSender.pdb
