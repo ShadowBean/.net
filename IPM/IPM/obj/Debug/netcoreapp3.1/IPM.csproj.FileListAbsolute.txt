@@ -1,0 +1,11 @@
+C:\Users\damia\source\repos\IPM\IPM\bin\Debug\netcoreapp3.1\IPM.exe
+C:\Users\damia\source\repos\IPM\IPM\bin\Debug\netcoreapp3.1\IPM.deps.json
+C:\Users\damia\source\repos\IPM\IPM\bin\Debug\netcoreapp3.1\IPM.runtimeconfig.json
+C:\Users\damia\source\repos\IPM\IPM\bin\Debug\netcoreapp3.1\IPM.runtimeconfig.dev.json
+C:\Users\damia\source\repos\IPM\IPM\bin\Debug\netcoreapp3.1\IPM.dll
+C:\Users\damia\source\repos\IPM\IPM\bin\Debug\netcoreapp3.1\IPM.pdb
+C:\Users\damia\source\repos\IPM\IPM\obj\Debug\netcoreapp3.1\IPM.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\IPM\IPM\obj\Debug\netcoreapp3.1\IPM.AssemblyInfoInputs.cache
+C:\Users\damia\source\repos\IPM\IPM\obj\Debug\netcoreapp3.1\IPM.AssemblyInfo.cs
+C:\Users\damia\source\repos\IPM\IPM\obj\Debug\netcoreapp3.1\IPM.dll
+C:\Users\damia\source\repos\IPM\IPM\obj\Debug\netcoreapp3.1\IPM.pdb
