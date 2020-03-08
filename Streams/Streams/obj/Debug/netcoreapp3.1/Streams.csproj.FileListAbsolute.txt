@@ -1,0 +1,11 @@
+C:\Users\damia\source\repos\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.exe
+C:\Users\damia\source\repos\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.deps.json
+C:\Users\damia\source\repos\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.json
+C:\Users\damia\source\repos\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.dev.json
+C:\Users\damia\source\repos\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.dll
+C:\Users\damia\source\repos\Streams\Streams\bin\Debug\netcoreapp3.1\Streams.pdb
+C:\Users\damia\source\repos\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfoInputs.cache
+C:\Users\damia\source\repos\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfo.cs
+C:\Users\damia\source\repos\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.dll
+C:\Users\damia\source\repos\Streams\Streams\obj\Debug\netcoreapp3.1\Streams.pdb
