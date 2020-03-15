@@ -1,0 +1,9 @@
+C:\Users\damia\source\repos\TBox\TBox\bin\Debug\TBox.exe.config
+C:\Users\damia\source\repos\TBox\TBox\bin\Debug\TBox.exe
+C:\Users\damia\source\repos\TBox\TBox\bin\Debug\TBox.pdb
+C:\Users\damia\source\repos\TBox\TBox\obj\Debug\TBox.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\TBox\TBox\obj\Debug\TBox.Form1.resources
+C:\Users\damia\source\repos\TBox\TBox\obj\Debug\TBox.Properties.Resources.resources
+C:\Users\damia\source\repos\TBox\TBox\obj\Debug\TBox.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\TBox\TBox\obj\Debug\TBox.exe
+C:\Users\damia\source\repos\TBox\TBox\obj\Debug\TBox.pdb
