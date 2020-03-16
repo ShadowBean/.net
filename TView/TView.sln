@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TView", "TView\TView.csproj", "{835DC911-5101-4701-B95A-8FA2B1802A69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835DC911-5101-4701-B95A-8FA2B1802A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835DC911-5101-4701-B95A-8FA2B1802A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835DC911-5101-4701-B95A-8FA2B1802A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835DC911-5101-4701-B95A-8FA2B1802A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA6E6781-C19F-42B2-A49D-00B0E484DB3B}
+	EndGlobalSection
+EndGlobal

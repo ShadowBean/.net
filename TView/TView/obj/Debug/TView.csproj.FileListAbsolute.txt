@@ -1,0 +1,9 @@
+C:\Users\damia\source\repos\TView\TView\obj\Debug\TView.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\TView\TView\obj\Debug\TView.Form1.resources
+C:\Users\damia\source\repos\TView\TView\obj\Debug\TView.Properties.Resources.resources
+C:\Users\damia\source\repos\TView\TView\obj\Debug\TView.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\TView\TView\bin\Debug\TView.exe.config
+C:\Users\damia\source\repos\TView\TView\bin\Debug\TView.exe
+C:\Users\damia\source\repos\TView\TView\bin\Debug\TView.pdb
+C:\Users\damia\source\repos\TView\TView\obj\Debug\TView.exe
+C:\Users\damia\source\repos\TView\TView\obj\Debug\TView.pdb
