@@ -1,0 +1,8 @@
+C:\Users\damia\source\repos\TrafficLights\Lights\bin\Debug\Lights.dll
+C:\Users\damia\source\repos\TrafficLights\Lights\bin\Debug\Lights.pdb
+C:\Users\damia\source\repos\TrafficLights\Lights\obj\Debug\Lights.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\TrafficLights\Lights\obj\Debug\Lights.Properties.Resources.resources
+C:\Users\damia\source\repos\TrafficLights\Lights\obj\Debug\Lights.UserControl1.resources
+C:\Users\damia\source\repos\TrafficLights\Lights\obj\Debug\Lights.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\TrafficLights\Lights\obj\Debug\Lights.dll
+C:\Users\damia\source\repos\TrafficLights\Lights\obj\Debug\Lights.pdb
