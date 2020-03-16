@@ -1,0 +1,9 @@
+C:\Users\damia\source\repos\Kodery\Kodery\bin\Debug\Kodery.exe.config
+C:\Users\damia\source\repos\Kodery\Kodery\bin\Debug\Kodery.exe
+C:\Users\damia\source\repos\Kodery\Kodery\bin\Debug\Kodery.pdb
+C:\Users\damia\source\repos\Kodery\Kodery\obj\Debug\Kodery.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Kodery\Kodery\obj\Debug\Kodery.Properties.Resources.resources
+C:\Users\damia\source\repos\Kodery\Kodery\obj\Debug\Kodery.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\Kodery\Kodery\obj\Debug\Kodery.exe
+C:\Users\damia\source\repos\Kodery\Kodery\obj\Debug\Kodery.pdb
+C:\Users\damia\source\repos\Kodery\Kodery\obj\Debug\Kodery.Form1.resources
