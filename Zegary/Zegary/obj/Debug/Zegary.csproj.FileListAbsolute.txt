@@ -1,0 +1,39 @@
+C:\Users\damia\source\repos\Zegary\Zegary\bin\Debug\Zegary.exe.config
+C:\Users\damia\source\repos\Zegary\Zegary\bin\Debug\Zegary.exe
+C:\Users\damia\source\repos\Zegary\Zegary\bin\Debug\Zegary.pdb
+C:\Users\damia\source\repos\Zegary\Zegary\obj\Debug\Zegary.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Zegary\Zegary\obj\Debug\Zegary.Properties.Resources.resources
+C:\Users\damia\source\repos\Zegary\Zegary\obj\Debug\Zegary.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\Zegary\Zegary\obj\Debug\Zegary.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Zegary\Zegary\obj\Debug\Zegary.exe
+C:\Users\damia\source\repos\Zegary\Zegary\obj\Debug\Zegary.pdb
+C:\Users\damia\source\repos\Zegary\Zegary\bin\Debug\ClockControl.dll
+C:\Users\damia\source\repos\Zegary\Zegary\bin\Debug\ClockControl.pdb
+C:\Users\damia\source\repos\Zegary\Zegary\obj\Debug\Zegary.Form1.resources
+C:\Users\damia\source\repos\Zegary\Zegary\obj\Debug\Zegary.csproj.CopyComplete
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\bin\Debug\Zegary.exe.config
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\bin\Debug\Zegary.exe
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\bin\Debug\Zegary.pdb
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\bin\Debug\ClockControl.dll
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\bin\Debug\ClockControl.pdb
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\obj\Debug\Zegary.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\obj\Debug\Zegary.Form1.resources
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\obj\Debug\Zegary.Properties.Resources.resources
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\obj\Debug\Zegary.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\obj\Debug\Zegary.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\obj\Debug\Zegary.csproj.CopyComplete
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\obj\Debug\Zegary.exe
+C:\Users\damia\source\repos\Zegary — kopia\Zegary\obj\Debug\Zegary.pdb
+C:\Users\damia\source\repos\Zegary a\Zegary\bin\Debug\Zegary.exe.config
+C:\Users\damia\source\repos\Zegary a\Zegary\bin\Debug\Zegary.exe
+C:\Users\damia\source\repos\Zegary a\Zegary\bin\Debug\Zegary.pdb
+C:\Users\damia\source\repos\Zegary a\Zegary\bin\Debug\ClockControl.dll
+C:\Users\damia\source\repos\Zegary a\Zegary\bin\Debug\ClockControl.pdb
+C:\Users\damia\source\repos\Zegary a\Zegary\obj\Debug\Zegary.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Zegary a\Zegary\obj\Debug\Zegary.Form1.resources
+C:\Users\damia\source\repos\Zegary a\Zegary\obj\Debug\Zegary.Properties.Resources.resources
+C:\Users\damia\source\repos\Zegary a\Zegary\obj\Debug\Zegary.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\Zegary a\Zegary\obj\Debug\Zegary.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Zegary a\Zegary\obj\Debug\Zegary.csproj.CopyComplete
+C:\Users\damia\source\repos\Zegary a\Zegary\obj\Debug\Zegary.exe
+C:\Users\damia\source\repos\Zegary a\Zegary\obj\Debug\Zegary.pdb
