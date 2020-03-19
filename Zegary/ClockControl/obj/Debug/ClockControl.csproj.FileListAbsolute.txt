@@ -1,0 +1,27 @@
+C:\Users\damia\source\repos\Zegary\ClockControl\bin\Debug\ClockControl.dll
+C:\Users\damia\source\repos\Zegary\ClockControl\bin\Debug\ClockControl.pdb
+C:\Users\damia\source\repos\Zegary\ClockControl\obj\Debug\ClockControl.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Zegary\ClockControl\obj\Debug\ClockControl.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Zegary\ClockControl\obj\Debug\ClockControl.dll
+C:\Users\damia\source\repos\Zegary\ClockControl\obj\Debug\ClockControl.pdb
+C:\Users\damia\source\repos\Zegary\ClockControl\obj\Debug\ClockControl.AnalogDigitClock.resources
+C:\Users\damia\source\repos\Zegary\ClockControl\obj\Debug\ClockControl.Properties.Resources.resources
+C:\Users\damia\source\repos\Zegary\ClockControl\obj\Debug\ClockControl.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\Zegary — kopia\ClockControl\bin\Debug\ClockControl.dll
+C:\Users\damia\source\repos\Zegary — kopia\ClockControl\bin\Debug\ClockControl.pdb
+C:\Users\damia\source\repos\Zegary — kopia\ClockControl\obj\Debug\ClockControl.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Zegary — kopia\ClockControl\obj\Debug\ClockControl.AnalogDigitClock.resources
+C:\Users\damia\source\repos\Zegary — kopia\ClockControl\obj\Debug\ClockControl.Properties.Resources.resources
+C:\Users\damia\source\repos\Zegary — kopia\ClockControl\obj\Debug\ClockControl.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\Zegary — kopia\ClockControl\obj\Debug\ClockControl.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Zegary — kopia\ClockControl\obj\Debug\ClockControl.dll
+C:\Users\damia\source\repos\Zegary — kopia\ClockControl\obj\Debug\ClockControl.pdb
+C:\Users\damia\source\repos\Zegary a\ClockControl\bin\Debug\ClockControl.dll
+C:\Users\damia\source\repos\Zegary a\ClockControl\bin\Debug\ClockControl.pdb
+C:\Users\damia\source\repos\Zegary a\ClockControl\obj\Debug\ClockControl.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\Zegary a\ClockControl\obj\Debug\ClockControl.AnalogDigitClock.resources
+C:\Users\damia\source\repos\Zegary a\ClockControl\obj\Debug\ClockControl.Properties.Resources.resources
+C:\Users\damia\source\repos\Zegary a\ClockControl\obj\Debug\ClockControl.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\Zegary a\ClockControl\obj\Debug\ClockControl.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Zegary a\ClockControl\obj\Debug\ClockControl.dll
+C:\Users\damia\source\repos\Zegary a\ClockControl\obj\Debug\ClockControl.pdb
